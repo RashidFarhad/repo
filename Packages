@@ -1,14 +1,29 @@
-Package: com.jakeashacks.realcc
+Package: com.lutoan.realcc
 Version: 1.0.2
 Section: Tweaks
 Maintainer: lutoan <luvantoanip@icloud.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.jakeashacks.realcc.deb
-Size: 4,186
+Filename: ./debs/com.lutoan.realcc.deb
+Size: 4186
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
 SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
 Description: Realcc dùng để bật/tắt Wifi/Data mạng/Bluetooth ngay tại Control Center
 Name: Realcc
 Author: Jake James
+
+
+Package: com.lutoan.facebooknoads.deb
+Version: 0.0.2
+Section: Tweaks
+Maintainer: lutoan <luvantoanip@icloud.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.lutoan.facebooknoads.deb
+Size: 19878
+MD5sum: 1ebc45cd01e93f362cfcd25fbf72f88d
+SHA1: 8562e98b64efbba6a775f4e01c35b2e029b783b6
+SHA256: 7c4217fe550597441a2bfb18192bb83d58ff1f824e4cd21a1d07e3a25b3a8266
+Description: Tweak loại bỏ quảng cáo cực kỳ hiệu quả trong ứng dụng Facebook
+Name: Facebook no Ads cracked
+Author: pxcex
 
