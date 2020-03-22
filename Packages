@@ -3,10 +3,10 @@ Version: 1.0.2
 Section: Tweaks
 Maintainer: lutoan
 Architecture: iphoneos-arm
-Filename: ./debs/com.lutoan.realcc.deb
+Filename: /debs/com.lutoan.realcc.deb
 Size: 4,186
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 Description: Realcc dùng để bật/tắt Wifi/Data mạng/Bluetooth ngay tại Control Center
 Name: Realcc
-Author: lutoan <luvantoanip@icloud.com>
+Author: Jake James
 
