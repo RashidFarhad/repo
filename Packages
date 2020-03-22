@@ -3,7 +3,7 @@ Version: 1.0.2
 Section: Tweaks
 Maintainer: lutoan <luvantoanip@icloud.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.lutoan.realcc.deb
+Filename: ./debs/com.jakeashacks.realcc.deb
 Size: 4,186
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
