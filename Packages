@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: lutoan <luvantoanip@icloud.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.lutoan.realcc.deb
-Size: 4186
+Size: 6604
 MD5sum: ba85d3791911da15591e411545eab882
 SHA1: c777d72685298ac50a2e72fb405b3347467a6c00
 SHA256: fa5cc2385f0c7a748f9414baf7850e18186e3f5078c93f45ad36c7fd72441f8d
