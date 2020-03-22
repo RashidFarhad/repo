@@ -1,7 +1,7 @@
 Package: com.lutoan.realcc
 Version: 1.0.2
 Section: Tweaks
-Maintainer: lutoan
+Maintainer: lutoan <luvantoanip@icloud.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.lutoan.realcc.deb
 Size: 4,186
