@@ -1,9 +1,9 @@
-Origin: Lu Toan Repo
+Origin: LuToan Repo
 Label: LuToan	
-Suite: stable
+Suite: Stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
-Components: main
-Description: Chào mừng bạn đến với Repo của Lữ Toàn
+Components: Main
+Description: Hello
 
