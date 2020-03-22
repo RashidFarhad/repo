@@ -1,29 +1,15 @@
-Package: com.lutoan.realcc
-Version: 1.0.2
-Section: Tweaks
-Maintainer: lutoan <luvantoanip@icloud.com>
-Architecture: iphoneos-arm
-Filename: ./debs/com.lutoan.realcc.deb
-Size: 6604
-MD5sum: ba85d3791911da15591e411545eab882
-SHA1: c777d72685298ac50a2e72fb405b3347467a6c00
-SHA256: fa5cc2385f0c7a748f9414baf7850e18186e3f5078c93f45ad36c7fd72441f8d
-Description: Realcc dùng để bật/tắt Wifi/Data mạng/Bluetooth ngay tại Control Center
-Name: Realcc
-Author: Jake James
-
-
-Package: com.lutoan.facebooknoads.deb
+Package: com.lutoan.calm
 Version: 0.0.2
 Section: Tweaks
 Maintainer: lutoan <luvantoanip@icloud.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.lutoan.facebooknoads.deb
-Size: 19878
-MD5sum: 1ebc45cd01e93f362cfcd25fbf72f88d
-SHA1: 8562e98b64efbba6a775f4e01c35b2e029b783b6
-SHA256: 7c4217fe550597441a2bfb18192bb83d58ff1f824e4cd21a1d07e3a25b3a8266
-Description: Tweak loại bỏ quảng cáo cực kỳ hiệu quả trong ứng dụng Facebook
-Name: Facebook no Ads cracked
+Filename: ./debs/com.lutoan.calm.deb
+Size: 81558
+MD5sum: bbdfc929a345aee055707034fa2704dc
+SHA1: e8a1bd430957036631ee56807de06de6fd0c8b2a
+SHA256: aa60d1a901650b52f12a3934752519ae5651657007c8dcae1a791169e524a6ad
+Description: Relax with calm
+Name: Calm
 Author: pxcex
+
 
