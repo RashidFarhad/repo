@@ -1,15 +1,43 @@
-Package: com.lutoan.calm
+Package: com.jakeashacks.realcc
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 102
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
+Size: 4186
+MD5sum: 4cd08f43cce7af370fda8e60a86e3561
+SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
+SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
+SHA512: e3c8c37eb6e5092b892b38c08a25cb76af34072affdb2c15cfdaa2046c6db3de5ae3c96b369df80f27f5c79e90a865b8fa20fd614cb53f92456e8a1ff42367a8
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: Jake James <jakeashacks@gmail.com>
+Name: RealCC
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jakeashacks
+
+Package: com.pul.facebooknoads
+Architecture: iphoneos-arm
 Version: 0.0.2
 Section: Tweaks
-Maintainer: lutoan <luvantoanip@icloud.com>
-Architecture: iphoneos-arm
-Filename: ./debs/com.lutoan.calm.deb
-Size: 81558
-MD5sum: bbdfc929a345aee055707034fa2704dc
-SHA1: e8a1bd430957036631ee56807de06de6fd0c8b2a
-SHA256: aa60d1a901650b52f12a3934752519ae5651657007c8dcae1a791169e524a6ad
-Description: Relax with calm
-Name: Calm
-Author: pxcex
-
+Maintainer: Pulandres
+Installed-Size: 200
+Depends: mobilesubstrate, sedfix
+Filename: ./debs/com.pul.facebooknoads_0.0.2_iphoneos-arm.deb
+Size: 19878
+MD5sum: 1ebc45cd01e93f362cfcd25fbf72f88d
+SHA1: 8562e98b64efbba6a775f4e01c35b2e029b783b6
+SHA256: 7c4217fe550597441a2bfb18192bb83d58ff1f824e4cd21a1d07e3a25b3a8266
+SHA512: 80225227bedac9038ef8433c948e4f22c5f7a0e9304aeea3b306b9d7cba655c881bfb029eab6c6b26c10a1d6e0bb7b89cc1193d5865450b29322c05b27d522e0
+Description: Block all Facebook Ads! Super simple to use, light and FAST.
+Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.3
+Name: Facebook NO ADS Free
+Author: pxcex <cexmac@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=1431
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1431
+Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
 
