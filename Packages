@@ -3,7 +3,6 @@ Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 102
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
 Size: 4186
@@ -11,21 +10,15 @@ MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
 SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
 SHA512: e3c8c37eb6e5092b892b38c08a25cb76af34072affdb2c15cfdaa2046c6db3de5ae3c96b369df80f27f5c79e90a865b8fa20fd614cb53f92456e8a1ff42367a8
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
-Description: Actually disable Wi-Fi from the iOS 11 CC
-Tag: purpose::extension, compatible::ios11, compatible::ios12
+Description: Actually disable Wi-Fi from the iOS 11
 Author: Jake James <jakeashacks@gmail.com>
 Name: RealCC
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: jakeashacks
 
 Package: com.opa334.safariplus
 Architecture: iphoneos-arm
 Version: 1.7.11
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 5112
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.opa334.safariplus_1.7.11_iphoneos-arm.deb
 Size: 1113118
@@ -33,22 +26,16 @@ MD5sum: b1d580be8f0c36b6e5a6f8a83eb5a6a6
 SHA1: 4184b1f727d5edc80928057dd2254cf133840b50
 SHA256: aff707854e13b754a6479f3e05f17cd8df0f0ab95e156e4ca7e634258fa48640
 SHA512: 3270be0cb5c4c9e195e609aaa897f5e90d9d036cb3d17d87b35dea1b37136709c982df6f9cfc2b1bf59d220630daef4f35e5142f089985e2b27fa54c7f26b35c
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
 Description: Various enhancements to Safari!
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: opa334 <opa334@protonmail.com>
 Name: Safari Plus
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: opa334
-Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
 
 Package: com.pul.facebooknoads
 Architecture: iphoneos-arm
 Version: 0.0.2
 Section: Tweaks
 Maintainer: Pulandres
-Installed-Size: 200
 Depends: mobilesubstrate, sedfix
 Filename: ./debs/com.pul.facebooknoads_0.0.2_iphoneos-arm.deb
 Size: 19878
@@ -60,16 +47,12 @@ Description: Block all Facebook Ads! Super simple to use, light and FAST.
 Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.3
 Name: Facebook NO ADS Free
 Author: pxcex <cexmac@gmail.com>
-Depiction: https://repo.pulandres.me/index.php?pid=1431
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1431
-Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
 
 Package: com.pulandres.bioprotectxs
 Architecture: iphoneos-arm
 Version: 4.4-3
 Section: Tweaks
 Maintainer: Pulandres
-Installed-Size: 3416
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Filename: ./debs/com.pulandres.bioprotectxs_4.4-3_iphoneos-arm.deb
 Size: 1101974
@@ -80,9 +63,6 @@ SHA512: 20cb16dc3b6556c9975c2e53f1596ec87a1d12cb901a9ec6f098b9e82dcbc93fb72d8f51
 Description: Protect your apps with Touch/Face ID!
 Name: BioProtect XS (iOS 12/13) Cracked
 Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: https://repo.pulandres.me/index.php?pid=1610
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1610
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.bioprotectxs/icon.png?fe=276
 
 Package: com.pulandres.callbarxs
 Architecture: iphoneos-arm
