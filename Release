@@ -1,9 +1,0 @@
-Origin: LuToan Repo
-Label: LuToan	
-Suite: Stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: Main
-Description: Hello
-
