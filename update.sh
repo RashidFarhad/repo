@@ -8,9 +8,9 @@ do
    pkg=`echo "$debInfo" | grep "Package: " | cut -c 10- | tr -d "\n\r"`
    maintainer=`echo "$debInfo" | grep "Maintainer: " | cut -c 13- | tr -d "\n\r"`
    sponsor=`echo "$debInfo" | grep "Sponsor: " | cut -c 10- | tr -d "\n\r"`
-   #Maintainer: nguyenthanh
-   #Author: nguyenthanh
-   #Sponsor: nguyenthanh
+   #Maintainer: lutoan
+   #Author: lutoan
+   #Sponsor: lutoan
    
    dpkg-deb -R $i ./debs/tmp
    
@@ -24,11 +24,11 @@ do
        buildDEBIAN=1
    fi
    if [[ -z $maintainer ]]; then
-        echo "Maintainer: nguyenthanh" >> ./debs/tmp/DEBIAN/control
+        echo "Maintainer: lutoan" >> ./debs/tmp/DEBIAN/control
        buildDEBIAN=1
    fi
    if [[ -z $sponsor ]]; then
-        echo "Sponsor: nguyenthanh" >> ./debs/tmp/DEBIAN/control
+        echo "Sponsor: lutoan" >> ./debs/tmp/DEBIAN/control
        buildDEBIAN=1
    fi
    #binary 0 or 1
@@ -57,7 +57,7 @@ apt-ftparchive packages ./debs > ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
 echo "Building Release...."
-printf "Origin: Nguyenthanh\nLabel: nguyenthanh\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: nguyenthanh\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
+printf "Origin: Lu Toan Repo\nLabel: Lu Toan\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Chia se tweak hay\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
 
 echo "------------------"
 echo "Done!"
