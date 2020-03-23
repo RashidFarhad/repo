@@ -1,0 +1,20 @@
+Author: Jake James <jakeashacks@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: RealCC
+Package: com.jakeashacks.realcc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 102
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jakeashacks
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Homepage: https://lutoan.github.io/repo
+Sponsor: lutoan
+Depiction: com.pxcex.calmhack
+Homepage: https://lutoan.github.io/repo
+Sponsor: lutoan

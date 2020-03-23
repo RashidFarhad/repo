@@ -1,0 +1,60 @@
+Package: com.jakeashacks.realcc
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 102
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
+Size: 4186
+MD5sum: 4cd08f43cce7af370fda8e60a86e3561
+SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
+SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
+SHA512: e3c8c37eb6e5092b892b38c08a25cb76af34072affdb2c15cfdaa2046c6db3de5ae3c96b369df80f27f5c79e90a865b8fa20fd614cb53f92456e8a1ff42367a8
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: Jake James <jakeashacks@gmail.com>
+Name: RealCC
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jakeashacks
+
+Package: com.pul.facebooknoads
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Pulandres
+Installed-Size: 200
+Depends: mobilesubstrate, sedfix
+Filename: ./debs/com.pul.facebooknoads_0.0.2_iphoneos-arm.deb
+Size: 19878
+MD5sum: 1ebc45cd01e93f362cfcd25fbf72f88d
+SHA1: 8562e98b64efbba6a775f4e01c35b2e029b783b6
+SHA256: 7c4217fe550597441a2bfb18192bb83d58ff1f824e4cd21a1d07e3a25b3a8266
+SHA512: 80225227bedac9038ef8433c948e4f22c5f7a0e9304aeea3b306b9d7cba655c881bfb029eab6c6b26c10a1d6e0bb7b89cc1193d5865450b29322c05b27d522e0
+Description: Block all Facebook Ads! Super simple to use, light and FAST.
+Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.3
+Name: Facebook NO ADS Free
+Author: pxcex <cexmac@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=1431
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1431
+Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
+
+Package: com.pxcex.calmhack
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/com.pxcex.calmhack_0.0.1_iphoneos-arm.deb
+Size: 58848
+MD5sum: 6aed40118ff2d1f5de59b2656707b94c
+SHA1: a7e5397137606c96879b440e5bfab30e0a717eb3
+SHA256: 18fd64cdd90a57b22ff144b3d5d3b87469a4a1c10bd930bffb29f314473999b6
+SHA512: b332615a7f90341e49b8f564027a063631bab86f01553e88a0bd1b06982844018cd96b631e536c74acd355f5ce3268f37377e60b90530dcdc5dc788a5d140ff2
+Description: Subscription Life Time!
+Name: Calm App Hack
+Author: pxcex
+
