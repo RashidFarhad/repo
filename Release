@@ -1,0 +1,11 @@
+Origin: LuToan Repo
+Label: lutoan
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Chia se tweak hay
+MD5Sum:
+ db81db719fbff23dca4a4fb9b90a47e9 982 Packages
+ d0e88e86f4c59399baa73b54e5506bbf 672 Packages.bz2
