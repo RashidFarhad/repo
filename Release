@@ -1,0 +1,10 @@
+Origin: LuToan Repo
+Label: lutoan
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Chia se tweak hay
+
+
