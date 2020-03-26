@@ -2,14 +2,10 @@ Package: com.jakeashacks.realcc
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Maintainer: BigBoss
 Filename: ./debs/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
 Size: 4186
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
 SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
 Description: Actually disable Wi-Fi from the iOS 11 CC
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-Author: Jake James <jakeashacks@gmail.com>
-
