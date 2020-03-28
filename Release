@@ -6,4 +6,5 @@ Codename: ios
 Architecture: iphoneos-arm
 Components: main
 Description: Chia se tweak hay
+Icon: ./CydiaIcon.PNG
 
