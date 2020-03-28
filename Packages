@@ -10,15 +10,10 @@ Size: 4186
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
 SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
 SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
-SHA512: e3c8c37eb6e5092b892b38c08a25cb76af34072affdb2c15cfdaa2046c6db3de5ae3c96b369df80f27f5c79e90a865b8fa20fd614cb53f92456e8a1ff42367a8
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
 Description: Actually disable Wi-Fi from the iOS 11 CC
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 Author: Jake James <jakeashacks@gmail.com>
 Name: RealCC
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: jakeashacks
 
 Package: com.pul.facebooknoads
 Architecture: iphoneos-arm
@@ -115,14 +110,9 @@ Size: 3824346
 MD5sum: 38c3b9cd10698ff747abaafc5e80a8d6
 SHA1: cd6655309848ce61d4ce898b8df9108dca237e47
 SHA256: ed7aff6ca7dd6360f21df72b16f8787a5efc968930ec69b2385944b7d10d6857
-SHA512: 61dbbf3474967ce1c1d89c0f420c58df0b421cc70412e72ddfb116141f439d23d1a2476f25ae27e72545414725e1269e0d00d8a42c8c848bf665356326e10880
 Description: Quản lý nhạc chuông tốt nhất  và nhiều hơn nữa!
 Tag: purpose::extension
-SileoDepiction: https://repo.thuthuatjb.com/sileo/com.thuthuatjb.tonemanager.json
 Name: ToneManager
-Author: Jesper Flodin <jesper@flodin.fi>
-Icon: file:///Library/IconRepo/tienich.png
-Depiction: https://repo.thuthuatjb.com/view/402
 
 Package: cydia.kiiimo.org.filzafilemanager
 Architecture: iphoneos-arm
