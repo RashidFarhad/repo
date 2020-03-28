@@ -1,0 +1,11 @@
+Origin: Toanlu
+Label: lutoan
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Chia se tweak hay
+MD5Sum:
+ 6505307862254272ead719b54f386798 45592 Packages
+ aed4abf00d04c4af05147a4574654bb8 14310 Packages.bz2
